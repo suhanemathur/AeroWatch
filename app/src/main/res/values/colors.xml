@@ -1,0 +1,7 @@
+<resources>
+    <color name="colorPrimary">#6200EE</color> <!-- Example Primary Color -->
+    <color name="colorPrimaryVariant">#3700B3</color> <!-- Example Primary Variant -->
+    <color name="colorOnPrimary">#FFFFFF</color> <!-- Example OnPrimary -->
+    <color name="colorSecondary">#03DAC5</color> <!-- Example Secondary -->
+    <color name="colorOnSecondary">#000000</color> <!-- Example OnSecondary -->
+</resources>
